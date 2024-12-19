@@ -1,0 +1,6 @@
+CADASTRO DE USÚARIO COM REGEX
+
+Esta tela de cadastro foi criada para facilitar o registro de novos usuários, contendo campos para Nome Completo, E-mail e Senha. 
+A validação do e-mail confirma que o formato inserido esteja correto (xx@xx.xx), prevenindo erros. 
+A senha deve conter no mínimo 8 caracteres e incluir pelo menos uma letra maiúscula, uma letra minúscula, um número e um caractere especial, garantindo a segurança para as contas dos usuários.
+
